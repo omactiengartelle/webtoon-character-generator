@@ -90,3 +90,12 @@ Returns a direct image URL.
 - Use `--size tall` for full-body shots suited to webtoon panel layouts.
 - Use `--ref` with a previously generated character's UUID to maintain visual consistency across images.
 
+## Example Output
+
+```bash
+node webtooncharactergenerator.js "webtoon manhwa style character portrait, clean crisp line art, highly expressive large eyes, vibrant saturated colors, smooth cel shading, dynamic pose, modern Korean webtoon aesthetic, white background, full body or bust"
+```
+
+![Example output](https://oss.talesofai.cn/picture/64ad841a-b21f-4aa1-b7f7-0dad5586a639.webp)
+
+> Prompt: *"webtoon manhwa style character portrait, clean crisp line art, highly expressive large eyes, vibrant saturated colors, smooth cel shading, dynamic pose, modern Korean webtoon aesthetic, white background, full body or bust"*
